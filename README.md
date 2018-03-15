@@ -1,2 +1,0 @@
-# MyWarehouse
-TestGit's Function
